@@ -44,10 +44,8 @@ prompt-toolkit==2.0.9
 psycopg2-binary==2.8.4
 ptyprocess==0.6.0
 Pygments==2.4.2
-pypiwin32==219
 python-dateutil==2.8.0
 pytz==2019.2
-#pywin32==227
 PyYAML==3.13
 requests==2.20.1
 semantic-version==2.5.0
