@@ -1,1 +1,1 @@
-web:gunicorn hnclone.wsgi.application
+web:gunicorn hnclone.wsgi
